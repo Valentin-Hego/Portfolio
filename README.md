@@ -5,7 +5,7 @@
 **M2 Cybersécurité - ISTIC Rennes**
 
 [![Email](https://img.shields.io/badge/valentin.hego.pro%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:valentin.hego.pro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Valentin_Hego-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-hego)
+[![LinkedIn](https://img.shields.io/badge/Valentin_Hego-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-hego-250471419/)
 [![Stage disponible](https://img.shields.io/badge/Open_to_internship-Mars_2027-22c55e?style=flat-square)](mailto:valentin.hego.pro@gmail.com)
 
 </div>
