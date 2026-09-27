@@ -12,19 +12,19 @@
 
 ---
 
-Intéressé par la cyber depuis le lycée. Une licence m'a donné les bases de l'informartique, un stage au sein de l'équipe cybersecurité chez Verallia m'a donné la certitude puor ma poursuite d'étude.
+Intéressé par la cyber depuis le lycée. Une licence m'a donné les bases de l'informatique, un stage au sein de l'équipe cybersécurité chez Verallia m'a donné la certitude pour ma poursuite d'études.
 
 Ce qui me motive : comprendre comment les choses fonctionnent pour trouver leurs failles.
 
-Ce repo est mon portfolio pour ma recherche de stage, il rassemble mes projets les plus pertinents pour celle-ci. Si d'aventure vous voulez discuter cryptographie, Rust ou pentest Windows, n'hésite pas, j'ai aussi des projets dessus !
+Ce repo est mon portfolio pour ma recherche de stage, il rassemble mes projets les plus pertinents pour celle-ci. Si d'aventure vous voulez discuter cryptographie, Rust ou pentest Windows, n'hésitez pas, j'ai aussi des projets dessus !
 
 ---
 
 ### 🔭 En ce moment
 
-- **L'obtention de mon diplôme de M2** - Evidemment c'est l'objectif principale de cette année scolaire
-- **Recherche de stage** - Pour découvrir de nouveaux horizons,valider mon Master et rentrer enfin dans la vie active
-- **Simulation radio drone** - ESP32, LoRa/ELRS, attaque des communication avec une clé SDR (projet personel)
+- **L'obtention de mon diplôme de M2** - Evidemment c'est l'objectif principal de cette année scolaire
+- **Recherche de stage** - Pour découvrir de nouveaux horizons, valider mon Master et rentrer enfin dans la vie active
+- **Simulation radio drone** - ESP32, LoRa/ELRS, attaque des communications avec une clé SDR (projet personnel)
 → [`Drone-simulation`](https://github.com/Valentin-Hego/Drone-simulation)
 
 ---
@@ -81,7 +81,7 @@ Ce repo est mon portfolio pour ma recherche de stage, il rassemble mes projets l
 <br>
 
 > *« Leave the gun. Take the cannoli. »*  
-> - mais patch le CVE avant de partir.
+> - mais patch la CVE avant de partir.
 
 Grand amateur de films de gangsters. Si vous voulez débattre de *Goodfellas* vs *Le Parrain* en entretien, je suis partant - mais sachez que ma position ne changera pas sous pression.
 
