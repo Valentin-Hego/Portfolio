@@ -33,9 +33,9 @@ Ce repo est mon portfolio pour ma recherche de stage, il rassemble mes projets l
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [Can LLM Break Obfuscation?](https://github.com/Valentin-Hego/Can-LLM-Break-Obfuscation-) | 60 binaires obfusqués, 1 LLM, un pipeline CI/CD pour tout mesurer - présenté au Cluster SequoIA | Python - Ghidra - CI/CD |
+| [Can LLM Break Obfuscation?](https://github.com/Valentin-Hego/Can-LLM-Break-Obfuscation-) | Mesurer l'efficacité d'un LLM à faire du reverse engineering de code obfusqué : 60 binaires obfusqués, 1 LLM, un pipeline CI/CD pour tout mesurer - présenté au Cluster SequoIA | Python - Ghidra - CI/CD |
 | [Dynamic Loader](https://github.com/Valentin-Hego/Dynamic-Loader) | Ré-implémentation d'un loader ELF en C : `mmap`, relocations `.rela.dyn`, `my_dlsym` maison | C |
-| [Brave Fingerprinting](https://github.com/Valentin-Hego/Brave-Fingerprinting) | Pourquoi les 3 mécanismes anti-fingerprinting de Brave ne suffisent pas - démo incluse | JavaScript - Python |
+| [Brave Fingerprinting](https://github.com/Valentin-Hego/Brave-Fingerprinting) | Pourquoi 3 des mécanismes anti-fingerprinting de Brave ne suffisent pas - démo incluse | JavaScript - Python |
 | [Drone Simulation](https://github.com/Valentin-Hego/Drone-simulation) | Communication radio contrôleur ↔ drone simulé via LoRa/ELRS - analyse SDR du signal | C++ - Python - ESP32 |
 | USB Key Analyzer *(repo bientôt)* | Borne d'analyse USB autonome sur Raspberry Pi 4 - règles YARA + détection heuristique | Python - YARA |
 
