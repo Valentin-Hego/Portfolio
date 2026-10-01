@@ -23,7 +23,7 @@ Ce repo est mon portfolio pour ma recherche de stage, il rassemble mes projets l
 ### 🔭 En ce moment
 
 - **L'obtention de mon diplôme de M2** - Evidemment c'est l'objectif principal de cette année scolaire
-- **Recherche de stage** - Pour découvrir de nouveaux horizons, valider mon Master et rentrer enfin dans la vie active
+- **Recherche de stage** - Pour enfin mettre en pratique mes connaissances, en apprendre de nouvelles et découvrir de nouveaux horizons.
 - **Simulation radio drone** - ESP32, LoRa/ELRS, attaque des communications avec une clé SDR (projet personnel)
 → [`Drone-simulation`](https://github.com/Valentin-Hego/Drone-simulation)
 
